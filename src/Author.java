@@ -24,7 +24,7 @@ public class Author {
     }
     @Override
     public String toString(){
-        return "Author [name=" + this.name + ",email=" + this.email +
+        return "Author[name=" + this.name + ",email=" + this.email +
         ",gender=" + this.gender + "]";
     }
 }

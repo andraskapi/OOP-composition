@@ -4,5 +4,6 @@ public class TestAuthor {
         System.out.println("name is: " + kBela.getName());
         System.out.println("email is: " + kBela.getEmail());
         System.out.println("gender is: " + kBela.getGender());
+        System.out.println(kBela);
     }
 }
